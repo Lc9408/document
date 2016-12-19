@@ -15,8 +15,12 @@
 
 ### 1.1 创建项目
 
-推荐使用Intellij Idea15进行开发，直接官网下载最新版。 Intellij idea的开源版是免费的，收费版功能插件多些。如果支持正版可以选择购买正版，免费版也能完全满足我们的开发需求。 可以为自己的工具更换下主题，获取主题地址：http://www.riaway.com，所有安装都默认就行。
+推荐使用Intellij Idea15进行开发，直接官网下载最新版。 Intellij idea的开源版是免费的，收费版功能插件多些。
+
+可以为自己的工具更换下主题，获取主题地址：http://www.riaway.com，所有安装都默认就行。
+
 ###完整结构图：
+
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-496bb1b065b2d3b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * #### 新建maven工程
