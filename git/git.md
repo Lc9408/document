@@ -49,13 +49,17 @@ $ git config [--global] user.email "[email address]"
 
 
 * 测试连接  
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-472fc2ded5642ece.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * 添加测试文件
+
 ![Markdown](http://i1.piimg.com/580567/770dc7f3bd6696b2.png)
 
 * 测试上传
-![Markdown](http://i1.piimg.com/580567/10747351c7f36cb1.png)
+
+![11.png](http://upload-images.jianshu.io/upload_images/3946479-12d3d7f43d2905fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 * 常用代码
 
