@@ -19,11 +19,22 @@ msysgit是Windows版的Git[下载](https://github.com/git-for-windows/git/releas
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-33f974f1b9ef5972.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-获得ssh_key
+* 设置姓名&邮箱
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-177a521f8906268d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+* 获得ssh_key
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-66ad0cb8c6f5ea15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+*  配置到GitHub中
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-348cf0a76d7079e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-08ae4b15e381402f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-bc482ac6237a6813.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 ```Bash
 # 显示当前的Git配置
