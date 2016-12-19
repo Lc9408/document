@@ -1,8 +1,11 @@
 ##  git 之IDEA 应用
+
 找到
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-3828f649b9e132a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 选择本地仓库
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-450703c0649446c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -14,7 +17,7 @@
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-d1df40af9e418057.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- ###IDEA中 如何将本地项目提交到本地仓库和远程仓库(github),下面是想详细的操作步骤：
+ ### IDEA中 如何将本地项目提交到本地仓库和远程仓库(github),下面是想详细的操作步骤：
 *  1.要使用GitHub,首先你需要下载一个Github  (地址:[http://windows.github.com/](http://windows.github.com/)) 这里使用的是for Windows (我的系统是win 10) 然后安装完成会得到如下的一个目录：
 
 ![](http://upload-images.jianshu.io/upload_images/3946479-1e47306c6ff8ef06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
