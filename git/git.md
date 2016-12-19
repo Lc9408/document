@@ -268,11 +268,15 @@ $ git archive
 
 将下载的文件解压到硬盘的一个目录，根据个人安装软件的习惯解压到自己软件安装目录
 windows系统下需要将解压后的maven的bin目录配置到环境变量path中
+
 ![Markdown](http://p1.bpimg.com/580567/9d5677eff1d3bc00.png)
 
 配置maven在idea中安装，点击Run-->Edit Configurations...或者直接点击工具栏的Edit Configurations...打开配置对话框，点击左上方的绿色加号找到maven，把相关的参数配置加上点击OK
+
 ![Markdown](http://p1.bpimg.com/580567/8981b7eb5d02aad4.png)
+
 ![Markdown](http://p1.bpimg.com/580567/49ee84797fcb2c05.png)
+
 ###4、安装jdk（已装）
 
 jdk[下载](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
