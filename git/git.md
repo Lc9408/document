@@ -4,7 +4,9 @@
 两天
 ##完成条件：
 1.本地配置好git和maven,了解基本的git和maven知识,会使用基本命令
+
 2.本地安装好intellij idea
+
 3.使用intellij idea新建一个项目，并提交到gitHub，可以正常push、pull
 ##1.配置git
 ###1、windows上安装git
@@ -14,9 +16,13 @@ msysgit是Windows版的Git[下载](https://github.com/git-for-windows/git/releas
 
 
 ![工作树.png](http://upload-images.jianshu.io/upload_images/3946479-0a866b43b3eef3e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-33f974f1b9ef5972.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-177a521f8906268d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-66ad0cb8c6f5ea15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ```Bash
 # 显示当前的Git配置
 $ git config --list
@@ -31,10 +37,13 @@ $ git config [--global] user.email "[email address]"
 
 * 测试连接  
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3946479-472fc2ded5642ece.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 * 添加测试文件
 ![Markdown](http://i1.piimg.com/580567/770dc7f3bd6696b2.png)
+
 * 测试上传
 ![Markdown](http://i1.piimg.com/580567/10747351c7f36cb1.png)
+
 * 常用代码
 
 		ssh -T  HYPERLINK "mailto:git@github.com" git@github.com
